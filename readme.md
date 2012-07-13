@@ -97,6 +97,8 @@ Restart processing if it's open
 All demos are heavily commented demos from the SimpleOpenNI toolkit by Max Rheiner http://iad.zhdk.ch/
 http://code.google.com/p/simple-openni
 
-Demo 1: Basic Kinect, getting an image
-Demo 2: Point clouds and 3D space
-Demo 3: User tracking with openNI
+(Demo 1: Basic Kinect, getting an image)
+
+(Demo 2: Point clouds and 3D space)
+
+(Demo 3: User tracking with openNI)
