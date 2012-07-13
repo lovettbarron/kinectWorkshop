@@ -1,7 +1,8 @@
 # Designing with Depth Kinect Workshop
+## Taught by Andrew Lovett-Barron http://readywater.ca
+## for Interaccess Electronic media arts center http://interaccess.org
 ## July 12, 2012 
 
-	(First part of class should run about 1h30m)
 ### Intro to Kinect
 #### What is it?
 Kinect as a 3D camera
