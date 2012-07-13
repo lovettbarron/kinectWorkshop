@@ -1,7 +1,7 @@
 # Designing with Depth Kinect Workshop
 ### July 12, 2012 
-#### Taught by Andrew Lovett-Barron http://readywater.ca
-#### for Interaccess Electronic media arts center http://interaccess.org
+Taught by [Andrew Lovett-Barron]:http://readywater.ca
+for [Interaccess Electronic media arts center]:http://interaccess.org
 
 ### Intro to Kinect
 #### What is it?
